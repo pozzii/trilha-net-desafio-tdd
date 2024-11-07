@@ -1,0 +1,13 @@
+D:\bootcamp XP\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.exe
+D:\bootcamp XP\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.deps.json
+D:\bootcamp XP\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.json
+D:\bootcamp XP\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.runtimeconfig.dev.json
+D:\bootcamp XP\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.dll
+D:\bootcamp XP\NewTalents\NewTalents\bin\Debug\netcoreapp3.1\NewTalents.pdb
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csprojAssemblyReference.cache
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfoInputs.cache
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.AssemblyInfo.cs
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.csproj.CoreCompileInputs.cache
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.dll
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.pdb
+D:\bootcamp XP\NewTalents\NewTalents\obj\Debug\netcoreapp3.1\NewTalents.genruntimeconfig.cache
